@@ -1,9 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>My New Hugo Site</title>
-        <link>https://vivekellappan05.github.io/</link>
+        <link>http://localhost:1313/</link>
         <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 27 Feb 2024 16:08:03 &#43;0530</lastBuildDate>
-            <atom:link href="https://vivekellappan05.github.io/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>My First Post</title>
+    <link>http://localhost:1313/posts/my-first-post/</link>
+    <pubDate>Tue, 27 Feb 2024 16:08:03 &#43;0530</pubDate>
+    <author>Author</author>
+    <guid>http://localhost:1313/posts/my-first-post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
