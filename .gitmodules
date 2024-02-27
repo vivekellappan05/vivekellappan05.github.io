@@ -1,0 +1,3 @@
+[submodule "vivek_profile/themes/LoveIt"]
+	path = vivek_profile/themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
